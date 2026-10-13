@@ -7,6 +7,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > An enterprise-grade, self-contained **Autonomous AI Marketing Agent** that designs conversion-optimized emails, plans multi-week campaign blueprints, analyzes subscriber engagement signals, and dynamically adapts follow-up sequences via behavioral branching.
+>
+> *Part of the **Enterprise Multi-Agent Ecosystem** engineered by Ha Minh Dung, integrating Autonomous Campaign Agents, Vector RAG Advisory, Automated Legal Document Synthesis, and Multi-Channel CRM Pipelines.*
 
 ---
 
